@@ -14,3 +14,11 @@
 .text1 {
     color: blue;
 }
+    
+.text2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    padding: 25px;
+}
